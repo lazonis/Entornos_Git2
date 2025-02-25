@@ -1,0 +1,14 @@
+
+//1
+//Estructuras de flujo de datos
+
+...
+
+if (esBajo) {
+	Syste.out.priintln("Eres bajo");
+}	else if (staturaCM >= 160  && estaturaCM <=174) {
+	System.out.println("Eres  normal");
+}	else 
+	System.out.println("Eres altísimo");
+{
+}

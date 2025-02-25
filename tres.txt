@@ -1,0 +1,11 @@
+1.BUILD XML
+<?xml version="1.0!?>
+<project name="test" default="all" basedir=".">
+
+<!-- CONFIGURAMOS PROPIEDADES -->
+
+<property name="build.dir" location="build/classes"/>
+<property name="dist.dir" location="dist=/>
+<property name="docs.dir" locaation="docs"/>
+
+

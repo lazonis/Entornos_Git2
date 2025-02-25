@@ -1,0 +1,24 @@
+//1
+
+package imaginary1 {
+
+	public class Uso_Vehículos {
+	pubic static void main (String[]args){
+		
+
+		
+
+
+	}
+	
+
+	class Coche {
+}
+	class Avión {
+}
+	class Bicicleta {
+}		
+
+}
+
+}

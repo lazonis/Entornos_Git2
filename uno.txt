@@ -1,4 +1,4 @@
-//1
+ //1
 
 package imaginary1 {
 
@@ -13,9 +13,14 @@ package imaginary1 {
 	
 
 	class Coche {
-}
+}	private int ruedas;	
+	private int puertas;
+
+
 	class Avión {
-}
+}		
+
+
 	class Bicicleta {
 }		
 
